@@ -16,3 +16,8 @@
 - Clicking any of the buttons will ask user to specify the amount.
 - The amount will be sent to the websocket endpoint.
 - The bot needs to handle socket response (i.e. message reads) and output the result in a human readable way.
+
+
+## How to run
+
+<code>npm start</code>
